@@ -1,6 +1,3 @@
-Perfect! Here's the detailed **Week 6** content based on the topic: **"Dictionaries & Functions — Region-wise GDP, Subsidies"**. You can copy this directly into your `Week-6/theory.md` file.
-
----
 
 # Week 6: Dictionaries & Functions — Region-wise GDP, Subsidies
 
